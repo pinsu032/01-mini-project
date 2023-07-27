@@ -25,6 +25,7 @@ public class PlanRestController {
 
 	private PlanService service;
 	private Map<String,String> messages;
+	
 	public  PlanRestController(PlanService service, AppProperties props) {
 		this.service = service;
 	    messages = props.getMessages();
