@@ -1,0 +1,21 @@
+#datasource properties
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    password: password
+    url: jdbc:mysql://localhost:3306/jrtp
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+plan-api:
+ messages:
+  plan-saved: Plan Saved
+  plan-not-saved: Plan Not Saved
+  plan-updated: Plan Updated
+  plan-not-updated: Plan Not Updated
+  plan-removed: Plan Removed
+  plan-not-removed: Plan Not Removed
+  plan-status-changed: Plan Status Changed
+  plan-status-not-changed: Plan Status Not Changed

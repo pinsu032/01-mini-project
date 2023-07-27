@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "plan-api.messages.plan-saved",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messages.plan-saved'"
+  },
+  {
+    "name": "plan-api.messages.plan-not-saved",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messages.plan-not-saved'"
+  },
+  {
+    "name": "plan-api.messages.plan-updated",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messages.plan-updated'"
+  },
+  {
+    "name": "plan-api.messages.plan-not-updated",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messages.plan-not-updated'"
+  },
+  {
+    "name": "plan-api.messages.plan-removed",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messages.plan-removed'"
+  },
+  {
+    "name": "plan-api.messages.plan-not-removed",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messages.plan-not-removed'"
+  },
+  {
+    "name": "plan-api.messages.plan-status-changed",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messages.plan-status-changed'"
+  },
+  {
+    "name": "plan-api.messages.plan-status-not-changed",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messages.plan-status-not-changed'"
+  }
+]}
